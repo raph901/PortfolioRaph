@@ -270,6 +270,33 @@ button.btn.btn-theme-color:hover{
     background-image: url('../img/dev.jfif');
     background-size: cover;
 }
+.M2L-banner{
+  background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    background-image: url('../img/M2llogo.png');
+    background-size: cover;
+}
+.Pizzeria-banner{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  background-image: url('../img/ivan-torres-MQUqbmszGGM-unsplash.jpg');
+  background-size: cover;
+}
+.BioTourist-banner{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  background-image: url('../img/yura-fresh-n31x0hhnzOs-unsplash.jpg');
+  background-size: cover;
+}
 
 .gradient {
     left: 0;
