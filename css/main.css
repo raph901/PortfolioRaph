@@ -294,7 +294,25 @@ button.btn.btn-theme-color:hover{
   background-size: cover;
   position: relative;
   width: 100%;
-  background-image: url('../img/yura-fresh-n31x0hhnzOs-unsplash.jpg');
+  background-image: url('../img/drahomir-posteby-mach-yboxjSBoBnQ-unsplash.jpg');
+  background-size: cover;
+}
+.Mobile-banner{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  background-image: url('../img/rahul-chakraborty-xsGxhtAsfSA-unsplash.jpg');
+  background-size: cover;
+}
+.Entreprise-banner{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  background-image: url('../img/télécharger.jfif');
   background-size: cover;
 }
 
