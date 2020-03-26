@@ -315,6 +315,34 @@ button.btn.btn-theme-color:hover{
   background-image: url('../img/télécharger.jfif');
   background-size: cover;
 }
+.ImgdeCoter{
+  float: left;
+  width:800px;
+  height: 950px; 
+  overflow-x: hidden;
+  margin-left: 2px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.ImgdeCoterBio{
+  float: left;
+  width:800px;
+  height: 1320px; 
+  overflow-x: hidden;
+  margin-left: 2px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.ImgdeCoterMobile{
+  float: left;
+  width:800px;
+  height: 930px; 
+  overflow-x: hidden;
+  margin-left: 2px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 
 .gradient {
     left: 0;
