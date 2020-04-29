@@ -315,6 +315,15 @@ button.btn.btn-theme-color:hover{
   background-image: url('../img/télécharger.jfif');
   background-size: cover;
 }
+.Veille-banner{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  background-image: url('../img/launchpresso-h5iazR-wljU-unsplash.jpg');
+  background-size: cover;
+}
 .ImgdeCoter{
   float: left;
   width:800px;
@@ -342,7 +351,6 @@ button.btn.btn-theme-color:hover{
   margin-top: 10px;
   margin-bottom: 10px;
 }
-
 
 .gradient {
     left: 0;
